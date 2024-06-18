@@ -12,6 +12,9 @@ document.addEventListener('DOMContentLoaded', function() {
     const searchInput = document.getElementById('search-input');
     const searchButton = document.getElementById('search-button');
 
+
+
+
     let videos = [];
 
     async function loadVideo(index) {
@@ -21,20 +24,23 @@ document.addEventListener('DOMContentLoaded', function() {
         opSegment.textContent = video.opSegment;
         document.body.style.backgroundImage = `url(${video.background})`;
 
-        // 获取视频和音频URL
-        const apiUrl = `/api/api/bzspjx?url=https://www.bilibili.com/video/${video.bv}`;
-        try {
-            const response = await fetch(apiUrl);
-            const data = await response.json();
 
-            if (data.code === "0" && data.videourl && data.audiourl) {
-                videoSource.src = data.videourl;
-                audioElement.src = data.audiourl;
+
+       // 获取视频和音频URL
+       // const apiUrl = `/api/api/bzspjx?url=https://www.bilibili.com/video/${video.bv}`;
+        try {
+
+            const videourl =video.videourl;
+            const audiourl =video.audiourl;
+
+            if (videourl && audiourl) {
+                videoSource.src = videourl;
+                audioElement.src = audiourl;
                 videoElement.load();
                 videoElement.play();
                 audioElement.play();
             } else {
-                console.error('Error fetching video data:', data.message);
+                console.error('Error fetching video data:');
             }
         } catch (error) {
             console.error('Fetch error:', error);

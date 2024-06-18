@@ -5,7 +5,9 @@
     "description": "《AQUA》是由SORAHANE制作发行的一款视觉小说，于2011年1月28日发售。本作同时也是该制作组的处女作。",
     "thumbnail": "thumbnails/thumb1.jpg",
     "background": "backgrounds/AQUA.jpg",
-    "opSegment": "OP播放位置：第一话后半段，具体位于第五个菱形标注处 "
+    "opSegment": "OP播放位置：第一话后半段，具体位于第五个菱形标注处 ",
+    "videourl": "https://upos-hz-mirrorakam.akamaized.net/upgcxcode/65/71/1488677165/1488677165-1-100111.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1718708478&gen=playurlv2&os=akam&oi=148479640&trid=5dd050b173f44b558e6de74f7deeb97dT&mid=2102334115&platform=html5&og=cos&upsig=ca62a28a14bbd3248effacbb28a981be&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&hdnts=exp=1718701278~hmac=e6731b8eb43a03e88bb3b2cdbf2a34c88956b53049421bf91ad90a7cec73ce3d&bvc=vod&nettype=0&bw=53649&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000",
+    "audiourl": "https://upos-hz-mirrorakam.akamaized.net/upgcxcode/65/71/1488677165/1488677165-1-30232.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1718708478&gen=playurlv2&os=akam&oi=148479640&trid=5dd050b173f44b558e6de74f7deeb97dT&mid=2102334115&platform=html5&og=hw&upsig=9fccf36d1cbd9d79015c3a05e7226996&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&hdnts=exp=1718701278~hmac=e6d8adf692fa84a8aa089d00c79a362f59af0dc4f410fbc1c2348906d0083f4c&bvc=vod&nettype=0&bw=12425&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000"
   },
   {
     "bv":"BV1de4y167mL",
@@ -13,7 +15,9 @@
     "description": "《天津罪》（日语：アマツツミ；英语：Amatsutsumi）是由Purple software于2016年7月29日发行的一部Galgame。",
     "thumbnail": "thumbnails/thumb2.jpg",
     "background": "backgrounds/天津罪.jpg",
-    "opSegment": "OP播放位置：-心11-结束后播放"
+    "opSegment": "OP播放位置：-心11-结束后播放",
+    "videourl": "https://upos-hz-mirrorakam.akamaized.net/upgcxcode/39/53/843265339/843265339-1-30064.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1718708534&gen=playurlv2&os=akam&oi=148479640&trid=b94b22eba16c40ffbc85c90d28da6a78T&mid=2102334115&platform=html5&og=cos&upsig=8a5d6e1336eb2b41f00ab23473969302&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&hdnts=exp=1718701334~hmac=fcad391b7347c6411cd14f38aca477e3f87c1463e67e0246f47bf88012867ff4&bvc=vod&nettype=0&bw=154616&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000",
+    "audiourl":"https://upos-hz-mirrorakam.akamaized.net/upgcxcode/39/53/843265339/843265339-1-30232.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1718708534&gen=playurlv2&os=akam&oi=148479640&trid=b94b22eba16c40ffbc85c90d28da6a78T&mid=2102334115&platform=html5&og=cos&upsig=73964b078252f30060caa850bf6843fd&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&hdnts=exp=1718701334~hmac=45f2af0cbe9875ca857e2a7379ae63ce5a52465b33c9e017f2fe46e9371f96ef&bvc=vod&nettype=0&bw=16636&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000"
   },
   {
     "bv":"BV1814y177Nc",
@@ -21,7 +25,9 @@
     "description": "《天津罪》（日语：アマツツミ；英语：Amatsutsumi）是由Purple software于2016年7月29日发行的一部Galgame。",
     "thumbnail": "thumbnails/thumb3.jpg",
     "background": "backgrounds/天津罪.jpg",
-    "opSegment": "OP播放位置：-莹8-中播放"
+    "opSegment": "OP播放位置：-莹8-中播放",
+    "videourl":"https://upos-hz-mirrorakam.akamaized.net/upgcxcode/31/84/1106548431/1106548431-1-30064.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1718708608&gen=playurlv2&os=akam&oi=148479640&trid=eebb568c152c45deabb0f38a428fe6d0T&mid=2102334115&platform=html5&og=cos&upsig=d2ac99881a3bfa83b532df298930aa59&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&hdnts=exp=1718701408~hmac=8bd5cf37c4fe54b0c7ee59f011240bf99df682a0553944ab3f5ebe09b1ec0d24&bvc=vod&nettype=0&bw=105884&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000",
+    "audiourl": "https://upos-hz-mirrorakam.akamaized.net/upgcxcode/31/84/1106548431/1106548431-1-30232.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1718708608&gen=playurlv2&os=akam&oi=148479640&trid=eebb568c152c45deabb0f38a428fe6d0T&mid=2102334115&platform=html5&og=hw&upsig=737952aa2d53cd14a8632f97c564ea15&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&hdnts=exp=1718701408~hmac=2e5c7b67cfe1073e7c042c51e8567bd969e44e28fc13553ab46533f100e3e89e&bvc=vod&nettype=0&bw=13286&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000"
   },
   {
     "bv":"BV1Ty4y1j7h8",
@@ -29,6 +35,8 @@
     "description": "9-nine-系列是由Palette制作的Galgame，主要分为四部：\n第一部9-nine-九次九日九重色（日语：9-nine-ここのつここのかここのいろ，缩写「9ここいろ」），以九条都为主轴的路线，2017年4月28日发售。",
     "thumbnail": "thumbnails/thumb4.jpg",
     "background": "backgrounds/9-nine-九次九日九重色.jpg",
-    "opSegment": "OP播放位置：一周目索菲吃掉十字架道具之后"
+    "opSegment": "OP播放位置：一周目索菲吃掉十字架道具之后",
+    "videourl": "https://upos-hz-mirrorakam.akamaized.net/upgcxcode/87/89/372398987/372398987-1-30080.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1718708708&gen=playurlv2&os=akam&oi=148479640&trid=7502b3527eb044788246a547e357ecd7T&mid=2102334115&platform=html5&og=hw&upsig=971688b777b0c178d2c104fc56611f14&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&hdnts=exp=1718701508~hmac=b296c4ef374ac605350c787f9b3b377a8e5f124bc26417082f89644c0d0838a5&bvc=vod&nettype=0&bw=280497&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000",
+    "audiourl": "https://upos-hz-mirrorakam.akamaized.net/upgcxcode/87/89/372398987/372398987-1-30232.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1718708708&gen=playurlv2&os=akam&oi=148479640&trid=7502b3527eb044788246a547e357ecd7T&mid=2102334115&platform=html5&og=hw&upsig=74451be18c167d334a3fadbec9c3cce3&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&hdnts=exp=1718701508~hmac=0aeeb3599a5a2e1c25053827939c19058d5704b1be8a9caaaf89b93afc989c98&bvc=vod&nettype=0&bw=16445&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000"
   }
 ]
