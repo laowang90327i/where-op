@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Where OP</title>
+    <link rel="icon" href="logo.ico" type="image/x-icon">
+    <link rel="stylesheet" href="styles.css">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' https://cors-anywhere.herokuapp.com https://api.aag.moe; img-src 'self' data:; media-src 'self' https://upos-hz-mirrorakam.akamaized.net;">
+</head>
+
+
+<body>
+<div class="container">
+    <div class="video-player">
+        <video id="main-video" controls>
+            <source id="video-source" src="" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+        <div class="video-details">
+            <h2 id="video-title">Video Title</h2>
+            <p id="video-description">Video description goes here.</p>
+            <p id="op-segment">OP Segment information goes here.</p>
+        </div>
+    </div>
+    <div class="video-controls">
+        <input type="text" id="search-input" placeholder="Search by title...">
+        <button id="search-button">Search</button>
+    </div>
+    <div class="video-playlist">
+        <ul id="playlist">
+            <!-- Videos will be dynamically loaded here -->
+        </ul>
+    </div>
+</div>
+<script src="scripts.js"></script>
+</body>
+</html>

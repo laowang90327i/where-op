@@ -1,0 +1,16 @@
+{
+  "name": "video-player",
+  "version": "1.0.0",
+  "description": "A video player for visual novels with Bilibili video integration.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^2.0.1",
+    "node-fetch": "^3.3.2"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
